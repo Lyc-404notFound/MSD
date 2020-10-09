@@ -1,0 +1,12 @@
+[2020-10-09 17:27:28,816][test.py][line:63][INFO] training params:distill_temp = 5,batch_size = 64,num_epoches = 100,learning_rate = 0.01,alpha = 0.1,    beta_begin = 0.1,beta_end = 0.001
+[2020-10-09 17:27:28,817][test.py][line:66][INFO] start training!
+[2020-10-09 17:33:26,097][test.py][line:91][INFO] Epoch:[1/100]	 time = 357.280	 loss = 16.04482	 alpha = 0.1	 beta = 0.55050
+[2020-10-09 17:39:16,386][test.py][line:91][INFO] Epoch:[2/100]	 time = 349.983	 loss = 12.10030	 alpha = 0.1	 beta = 0.55048
+[2020-10-09 17:45:07,065][test.py][line:91][INFO] Epoch:[3/100]	 time = 350.679	 loss = 10.67551	 alpha = 0.1	 beta = 0.55040
+[2020-10-09 17:50:56,095][test.py][line:91][INFO] Epoch:[4/100]	 time = 349.029	 loss = 9.79932	 alpha = 0.1	 beta = 0.55028
+[2020-10-09 17:56:43,895][test.py][line:91][INFO] Epoch:[5/100]	 time = 347.800	 loss = 9.16106	 alpha = 0.1	 beta = 0.55011
+[2020-10-09 18:02:33,160][test.py][line:91][INFO] Epoch:[6/100]	 time = 349.264	 loss = 8.69729	 alpha = 0.1	 beta = 0.54989
+[2020-10-09 18:08:22,467][test.py][line:91][INFO] Epoch:[7/100]	 time = 349.307	 loss = 8.29563	 alpha = 0.1	 beta = 0.54962
+[2020-10-09 18:14:11,710][test.py][line:91][INFO] Epoch:[8/100]	 time = 349.243	 loss = 8.00720	 alpha = 0.1	 beta = 0.54931
+[2020-10-09 18:20:01,791][test.py][line:91][INFO] Epoch:[9/100]	 time = 350.080	 loss = 7.71052	 alpha = 0.1	 beta = 0.54894
+[2020-10-09 18:25:52,455][test.py][line:91][INFO] Epoch:[10/100]	 time = 350.664	 loss = 7.49657	 alpha = 0.1	 beta = 0.54853

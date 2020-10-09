@@ -1,0 +1,2 @@
+[2020-10-09 18:35:54,758][test.py][line:63][INFO] training params:distill_temp = 5,batch_size = 64,num_epoches = 100,learning_rate = 0.01,alpha = 0.1,    beta_begin = 0.1,beta_end = 0.001
+[2020-10-09 18:35:54,759][test.py][line:66][INFO] start training!
